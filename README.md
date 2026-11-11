@@ -36,4 +36,4 @@ Pipeline 2 achieved better classification performance and more consistent cross-
 - Improve minority-class classification.
 - Introduce active learning.
 
-**Academic Project – University of Bath**
+**Academic Project - University of Bath**
